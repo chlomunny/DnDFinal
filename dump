@@ -1,0 +1,41 @@
+<div class="question">The first two letters signify a male, the first three letters signify a female, the first four letters signify a great, while the entire word signifies a great woman. What is the word?</div>
+        <br> 
+        <input type="text" required placeholder="Provide your answer">
+        <span></span>
+
+        <br><br>
+
+        <div class="question">You measure my life in hours and I serve you by expiring. I’m quick when I’m thin and slow when I’m fat. The wind is my enemy.</div>
+        <br>
+        <input type="text" required placeholder="Provide your answer">
+        <span></span>
+
+        <br><br>
+
+        <div class="question">This belongs to you, but everyone else uses it.</div>
+        <br>
+        <input type="text" required placeholder="Provide your answer">
+        <span></span>
+
+        <br><br>
+
+        <div class="question">What can you hold in your right hand, but never in your left?</div>
+        <br>
+        <input type="text" required placeholder="Provide your answer">
+        <span></span>
+
+        <br><br>
+
+        <div class="question">How much dirt is in a hole that measures four feet by four feet by five feet?</div>
+        <br>
+        <input type="text" required placeholder="Provide your answer">
+        <span></span>
+
+        <br><br>
+
+        <div class="question">Turn me on my side, and I am everything. Cut me in half and I am nothing. What am I?</div>
+        <br>
+        <input type="text" required placeholder="Provide your answer">
+        <span></span>
+
+        <br><br>

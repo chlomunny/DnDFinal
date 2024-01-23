@@ -1,0 +1,63 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+html {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    background-image: url("dungeon-background.jpg");
+    cursor: url("sword.png"), auto;
+}
+
+body {
+    border: 1px solid black;
+    border-radius: 70px;
+    background: black;
+    box-shadow: 0px 0px 10px 30px #000000;
+    opacity: .95;
+    width: 60%;
+    margin: 96px 24px;
+}
+
+.questions-container {
+    color: white;
+}
+
+.submit-btn {
+    cursor: url("sword.png"), auto;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.submit-btn:hover {
+    background-color: grey;
+    border-color:gold;
+    color: gold;
+}
+
+input {
+    cursor: url("sword.png"), auto;
+    border-radius: 8px;
+}
+
+input:user-invalid {
+    border: 2px solid red;
+}
+  
+input:user-invalid + span::before {
+    content: "✖";
+    color: red;
+}
+
+input:hover {
+    background-color: grey;
+    border-color:gold;
+}
+
+::placeholder {
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
